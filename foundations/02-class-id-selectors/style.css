@@ -1,0 +1,19 @@
+.one {
+    background-color: rgb(234, 161, 167);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#one {
+    color: #043fd6;
+    font-size: 36px;
+}
+
+.two {
+    font-size: 24px;
+}
+
+#two {
+    background-color: hsl(120, 100%, 75%);
+    font-style: bold;
+    font-size: 24px;
+}
